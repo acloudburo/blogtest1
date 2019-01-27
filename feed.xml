@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>blogtest1</title>
+  <title>Felix's Blog</title>
   <subtitle></subtitle>
   <id>https://blogtest1.curation.space</id>
   <link href="https://blogtest1.curation.space"/>
   <link href="https://blogtest1.curation.space/feed.xml" rel="self"/>
-  <updated>2017-11-07T08:02:25Z</updated>
+  <updated>2017-11-07T09:02:25+01:00</updated>
   <author>
     <name></name>
   </author>
@@ -13,8 +13,8 @@
     <title>Swipe Right for Equality</title>
     <link rel="alternate" href="https://blogtest1.curation.space/2017/11/07/swipe-right-for-equality.html"/>
     <id>https://blogtest1.curation.space/2017/11/07/swipe-right-for-equality.html</id>
-    <published>2017-11-07T08:02:25Z</published>
-    <updated>2017-11-07T11:51:44+00:00</updated>
+    <published>2017-11-07T09:02:25+01:00</published>
+    <updated>2019-01-27T10:19:23+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -139,8 +139,8 @@
     <title>WIRED Live Official Notebook</title>
     <link rel="alternate" href="https://blogtest1.curation.space/2017/11/06/wired-live-official-notebook.html"/>
     <id>https://blogtest1.curation.space/2017/11/06/wired-live-official-notebook.html</id>
-    <published>2017-11-06T18:45:43Z</published>
-    <updated>2017-11-07T11:51:39+00:00</updated>
+    <published>2017-11-06T19:45:43+01:00</published>
+    <updated>2019-01-27T10:19:23+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
